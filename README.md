@@ -13,6 +13,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
+- :man: I am 16 years old
 - :computer: I am currently learning Python
 - :hourglass_flowing_sand:  I dreamed of working in big companies in the future
 - :🚩: There are many dreams in the future...
