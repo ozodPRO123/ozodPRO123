@@ -15,7 +15,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 - :computer: I am currently learning Python
 - :hourglass_flowing_sand:  I dreamed of working in big companies in the future
-- :🚩: Kelajakda orzular ko`p...
+- :🚩: There are many dreams in the future...
 - :muscle: I practice sambo and armwrestling
 - :school: Currently I study at school
 
