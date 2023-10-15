@@ -13,11 +13,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: I am currently learning Python
+- :hourglass_flowing_sand:  I dreamed of working in big companies in the future
+- :🚩: Kelajakda orzular ko`p...
+- :muscle: I practice sambo and armwrestling
+- :school: Currently I study at school
 
 ## ⚡ Technologies
 
