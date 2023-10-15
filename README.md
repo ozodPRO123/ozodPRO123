@@ -1,4 +1,4 @@
-<h1 align="center">PHP Developer</h1>
+<h1 align="center">Python Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -7,8 +7,8 @@ I am a back-end software engineer specializing in building high load back-end se
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@ozodPRO123-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ozodPRO123)](https://t.me/ozodPRO123) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Telegram Badge](https://img.shields.io/badge/@murtazayev_75-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/murtazayev_75)](https://t.me/murtazayev_75) 
+[![Youtube Badge](https://img.shields.io/badge/@youtube no!-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@youtube no!)](https://www.youtube.com/@youtube no!)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
