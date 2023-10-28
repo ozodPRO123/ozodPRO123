@@ -10,7 +10,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 
 [![Telegram Badge](https://img.shields.io/badge/@murtazayev_75-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/murtazayev_75)](https://t.me/murtazayev_75) 
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ozodpro_007/)
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
