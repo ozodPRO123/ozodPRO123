@@ -26,6 +26,8 @@ Do not forget to go to Instagram and subscribe
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
+- Django website
+- Telegram bot
 
 ## ⚡ Technologies
 
