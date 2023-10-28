@@ -21,6 +21,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :muscle: I practice sambo and armwrestling
 - :school: Currently I study at school
 
+### Things I love:
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+
 ## ⚡ Technologies
 
 ![Image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
